@@ -1,2 +1,2 @@
 # resumo-do-lab
-Contribuição do Projeta Cleytonazure no GitHub
+Contribuição do Projeto Cleytonazure no GitHub
